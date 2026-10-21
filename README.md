@@ -1,10 +1,10 @@
 <a href="https://er-s-an.github.io">
-  <img alt="Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI and agent systems. Building on Injective. Enter the personal studio." src="assets/cover.png" width="100%">
+  <img alt="Caesar / Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI and agent systems. Building on Injective. Enter the personal studio." src="assets/cover.png" width="100%">
 </a>
 
 [ENTER THE STUDIO ↗](https://er-s-an.github.io) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
 
-I’m Jiachen — a **student entrepreneur** and **CTO of MAKEBOOK**. I build **AI and agent systems**: collaboration, tool use, evaluation, and the interfaces that make them usable.
+I’m Caesar (Jiachen Xie) — a **student entrepreneur** and **CTO of MAKEBOOK**. I build **AI and agent systems**: collaboration, tool use, evaluation, and the interfaces that make them usable.
 
 My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective.com)**, bringing that same care to orders, prices, and money.
 
