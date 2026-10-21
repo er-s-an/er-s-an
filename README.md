@@ -1,11 +1,13 @@
+<a href="https://er-s-an.github.io">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img alt="Jiachen Xie — AI, agents and a little art. Building MAKEBOOK on Injective." src="assets/cover-light.svg" width="100%">
+  <img alt="Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI, agents and a little art. Enter the personal studio." src="assets/cover-light.svg" width="100%">
 </picture>
+</a>
 
-[CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.hk2048.online)
+[ENTER THE STUDIO ↗](https://er-s-an.github.io) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
 
-I build **AI and agent systems** — collaboration, tool use, evaluation, and the interfaces that make them usable.
+I’m Jiachen — a **student entrepreneur** and **CTO of MAKEBOOK**. I build **AI and agent systems**: collaboration, tool use, evaluation, and the interfaces that make them usable.
 
 My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective.com)**, bringing that same care to orders, prices, and money.
 
@@ -13,9 +15,9 @@ My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective
 
 ### 01 / MAKEBOOK
 
-**[Physical products, backed by real demand. ↗](https://makebook.hk2048.online)**
+**[Physical products, backed by real demand. ↗](https://makebook.xyz)**
 
-A presale platform that helps settle orders, prices, and funding before production. I lead the full-stack and smart-contract engineering.
+A presale platform that helps settle orders, prices, and funding before production. As CTO, I lead the full-stack and smart-contract engineering.
 
 <sub>Main venture · Injective EVM testnet prototype · **1st place, AdventureX 2026 Web3 Track**</sub>
 
