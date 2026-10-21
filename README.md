@@ -1,8 +1,5 @@
 <a href="https://er-s-an.github.io">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img alt="Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI, agents and a little art. Enter the personal studio." src="assets/cover-light.svg" width="100%">
-</picture>
+  <img alt="Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI and agent systems. Building on Injective. Enter the personal studio." src="assets/cover.png" width="100%">
 </a>
 
 [ENTER THE STUDIO ↗](https://er-s-an.github.io) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
