@@ -1,12 +1,16 @@
 <a href="https://er-s-an.github.io">
-  <img alt="Caesar / Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI and agent systems. Building on Injective. Enter the personal studio." src="assets/cover.png" width="100%">
+  <img alt="Caesar / 谢佳辰 / Jiachen Xie — student entrepreneur, CTO of MAKEBOOK. AI and agent systems. Building on Injective. Enter the personal studio." src="assets/cover.png" width="100%">
 </a>
 
-[ENTER THE STUDIO ↗](https://er-s-an.github.io) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
+# Caesar / 谢佳辰 / Jiachen Xie
 
-I’m Caesar (Jiachen Xie) — a **student entrepreneur** and **CTO of MAKEBOOK**. I build **AI and agent systems**: collaboration, tool use, evaluation, and the interfaces that make them usable.
+[STUDIO / EN ↗](https://er-s-an.github.io/en/) &nbsp; · &nbsp; [中文主页 ↗](https://er-s-an.github.io/zh/) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
+
+I’m **Caesar — Jiachen Xie / 谢佳辰**, a **student entrepreneur** and **CTO of MAKEBOOK**. I build **AI and agent systems**: collaboration, tool use, evaluation, and the interfaces that make them usable.
 
 My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective.com)**, bringing that same care to orders, prices, and money.
+
+在香港城市大学读书，也在 MAKEBOOK 创业，担任 CTO。做 AI Agent、创作工具与游戏，把点子写成能用的东西。
 
 ---
 
@@ -14,7 +18,7 @@ My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective
 
 **[Physical products, backed by real demand. ↗](https://makebook.xyz)**
 
-A presale platform that helps settle orders, prices, and funding before production. As CTO, I lead the full-stack and smart-contract engineering.
+A platform for bringing physical products to market, with preorder tools to settle orders, prices, and funds before production. As CTO, I lead the full-stack and smart-contract engineering.
 
 <sub>Main venture · Injective EVM testnet prototype · **1st place, AdventureX 2026 Web3 Track**</sub>
 
