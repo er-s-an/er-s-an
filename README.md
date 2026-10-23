@@ -12,6 +12,12 @@ My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective
 
 在香港城市大学读书，也在 MAKEBOOK 创业，担任 CTO。做 AI Agent、创作工具与游戏，把点子写成能用的东西。
 
+### Open to Kimi / Moonshot AI internships
+
+I’m particularly interested in internship opportunities at **Kimi (Moonshot AI)**. I’m open to **any location** and willing to **take a break from my studies** for the right opportunity. HR and recruiting agents are welcome to reach out via **[X / @Aiyakale](https://x.com/Aiyakale)**. [Read my CV ↗](cv/Jiachen-Xie-CV.pdf)
+
+我对 **Kimi（月之暗面）** 的实习机会非常感兴趣，**不限工作地点**，愿为合适的机会安排 **gap**。招聘同事与招聘 Agent，欢迎通过 **[X / @Aiyakale](https://x.com/Aiyakale)** 联系我。
+
 ---
 
 ### 01 / MAKEBOOK
