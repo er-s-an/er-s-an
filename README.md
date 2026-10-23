@@ -38,6 +38,16 @@ A platform for bringing physical products to market, with preorder tools to sett
 
 **[05 / Kanshan](https://github.com/er-s-an/kanshanOPENdoor)** — an AI agent-native engine for building web games.
 
+### Writing / 公开发表
+
+**[5亿Token实测Kimi K3：我看到了核弹，也看到高昂的成本 ↗](https://news.qq.com/rain/a/20260718A0AXJ700)**
+
+<sub>By Caesar · 白鲸实验室 / Tencent News · 2026-07-19 · Article in Chinese</sub>
+
+Hands-on tests of Kimi K3 across game prototypes and an agent-facing video editor, examining agent harnesses, visual feedback, task completion, and token costs.
+
+从游戏原型与面向 Agent 的视频剪辑工具出发，记录 Kimi K3 在真实任务中的表现、局限与使用成本。
+
 ### A few contributions upstream
 
 [LightRAG #3665](https://github.com/HKUDS/LightRAG/pull/3665) · [#3662](https://github.com/HKUDS/LightRAG/pull/3662) — custom chunking and clearer routing behavior.  
