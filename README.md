@@ -4,7 +4,7 @@
 
 # Caesar / 谢佳辰 / Jiachen Xie
 
-[STUDIO / EN ↗](https://er-s-an.github.io/en/) &nbsp; · &nbsp; [中文主页 ↗](https://er-s-an.github.io/zh/) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
+[STUDIO / EN ↗](https://er-s-an.github.io/en/) &nbsp; · &nbsp; [中文主页 ↗](https://er-s-an.github.io/zh/) &nbsp; · &nbsp; [CV / PDF ↗](cv/Jiachen-Xie-CV.pdf) &nbsp; · &nbsp; [MAKEBOOK ↗](https://makebook.xyz) &nbsp; · &nbsp; [EMAIL ↗](mailto:3137612974@qq.com) &nbsp; · &nbsp; [X / @Aiyakale ↗](https://x.com/Aiyakale)
 
 I’m **Caesar — Jiachen Xie / 谢佳辰**, a **student entrepreneur** and **CTO of MAKEBOOK**. I build **AI and agent systems**: collaboration, tool use, evaluation, and the interfaces that make them usable.
 
@@ -14,9 +14,9 @@ My main venture is **MAKEBOOK**. I'm **building on [Injective](https://injective
 
 ### Open to Kimi / Moonshot AI internships
 
-I’m particularly interested in internship opportunities at **Kimi (Moonshot AI)**. I’m open to **any location** and willing to **take a break from my studies** for the right opportunity. HR and recruiting agents are welcome to reach out via **[X / @Aiyakale](https://x.com/Aiyakale)**. [Read my CV ↗](cv/Jiachen-Xie-CV.pdf)
+I’m particularly interested in internship opportunities at **Kimi (Moonshot AI)**. I’m open to **any location** and willing to **take a break from my studies** for the right opportunity. HR and recruiting agents are welcome to email me at **[3137612974@qq.com](mailto:3137612974@qq.com)**. [Read my CV ↗](cv/Jiachen-Xie-CV.pdf)
 
-我对 **Kimi（月之暗面）** 的实习机会非常感兴趣，**不限工作地点**，愿为合适的机会安排 **gap**。招聘同事与招聘 Agent，欢迎通过 **[X / @Aiyakale](https://x.com/Aiyakale)** 联系我。
+我对 **Kimi（月之暗面）** 的实习机会非常感兴趣，**不限工作地点**，愿为合适的机会安排 **gap**。招聘同事与招聘 Agent，欢迎通过邮箱 **[3137612974@qq.com](mailto:3137612974@qq.com)** 联系我。
 
 ---
 
